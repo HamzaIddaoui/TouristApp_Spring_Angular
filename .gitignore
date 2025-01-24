@@ -1,0 +1,15 @@
+/back/discoveryServer/.gitattributes
+/back/.idea/.gitignore
+/back/discoveryServer/.gitignore
+/back/.idea/back.iml
+/back/.idea/checkstyle-idea.xml
+/back/.idea/compiler.xml
+/back/.idea/encodings.xml
+/back/.idea/jarRepositories.xml
+/back/.idea/jpa-buddy.xml
+/back/discoveryServer/.mvn/wrapper/maven-wrapper.properties
+/back/.idea/misc.xml
+/back/.idea/modules.xml
+/back/discoveryServer/mvnw
+/back/discoveryServer/mvnw.cmd
+/back/.idea/vcs.xml
